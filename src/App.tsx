@@ -10,7 +10,7 @@ interface IState{
 function App() {
   const [state, setState] = useState<IState>({message:"message"});
   const connection = new WebSocket('wss://suberra-payment.herokuapp.com/');
-
+  //const connection = new WebSocket('ws://localhost:4200');
   useEffect(() => {
     connection.onopen = () => {
       connection.send("subscribe to websocket");
