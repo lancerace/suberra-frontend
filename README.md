@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 project is hosted in firebase. **URL**: https://suberra-frontend.web.app/
 
+if it is not working the first time. please refresh app after calling endpoint from postman, as backend is hosted in heroku (free version). 
+It is in 'sleep mode' when not in use for certain period of time.
+
 
 ## Available Scripts
 
