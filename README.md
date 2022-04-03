@@ -2,8 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-
-
+project is hosted in firebase. **URL**: https://suberra-frontend.web.app/
 
 
 ## Available Scripts
